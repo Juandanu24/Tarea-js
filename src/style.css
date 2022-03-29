@@ -1,0 +1,14 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+html, body {
+    margin: 0;
+    background-color: darkkhaki;
+}
+
+img {
+    width: 25rem;
+    height: 10rem;
+}
